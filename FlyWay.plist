@@ -6,6 +6,14 @@ PROCESS-NAME,/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.
 PROCESS-NAME,/System/Applications/Mail.app/Contents/MacOS/Mail,LAN
 PROCESS-NAME,/System/Applications/App Store.app/Contents/MacOS/App Store,LAN
 PROCESS-NAME,/Applications/NeatDownloadManager.app/Contents/MacOS/NeatDownloadManager,LAN
+PROCESS-NAME,/Applications/iTerm.app/Contents/MacOS/iTerm2,LAN
+PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer),LAN
+PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper,LAN
+PROCESS-NAME,/Applications/Visual Studio Code.app/Contents/MacOS/Electron,LAN
+PROCESS-NAME,/Applications/企业微信.app/Contents/Resources/WeDrive/v14.17.4/bin/node,LAN
+PROCESS-NAME,/Applications/企业微信.app/Contents/Frameworks/企业微信 Helper.app/Contents/MacOS/企业微信 Helper,LAN
+PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信,LAN
+
 #域名
 DOMAIN,preview.feed.toolbox.app,LAN
 #
