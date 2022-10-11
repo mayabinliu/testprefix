@@ -5,7 +5,10 @@ PROCESS-NAME,/opt/LVUAAgentInstBaseRoot/dvc-core-exe,LAN
 PROCESS-NAME,/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft Update Assistant.app/Contents/MacOS/Microsoft Update Assistant,LAN // 升级
 PROCESS-NAME,/System/Applications/Mail.app/Contents/MacOS/Mail,LAN
 PROCESS-NAME,/System/Applications/App Store.app/Contents/MacOS/App Store,LAN
+PROCESS-NAME,/Applications/NeatDownloadManager.app/Contents/MacOS/NeatDownloadManager,LAN
 #域名
 DOMAIN,db.u-tools.cn,LAN
 DOMAIN,ipcdn.apple.com,LAN
 DOMAIN,psuite.vivo.com.cn,LAN
+DOMAIN,preview.feed.toolbox.app,LAN
+DOMAIN,download-cdn.jetbrains.com,LAN
