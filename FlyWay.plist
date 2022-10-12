@@ -12,7 +12,7 @@ PROCESS-NAME,/Applications/企业微信.app/Contents/Resources/WeDrive/v14.17.4/
 PROCESS-NAME,/Applications/企业微信.app/Contents/Frameworks/企业微信 Helper.app/Contents/MacOS/企业微信 Helper,LAN
 PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信,LAN
 PROCESS-NAME,/Applications/wpsoffice.app/Contents/SharedSupport/wpscloudsvr.app/Contents/MacOS/wpscloudsvr,LAN
-
+PROCESS-NAME,/Applications/Moonlight.app/Contents/MacOS/Moonlight,LAN
 #域名
 DOMAIN,preview.feed.toolbox.app,LAN
 #
