@@ -13,6 +13,7 @@ PROCESS-NAME,/Applications/企业微信.app/Contents/Frameworks/企业微信 Hel
 PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信,LAN
 PROCESS-NAME,/Applications/wpsoffice.app/Contents/SharedSupport/wpscloudsvr.app/Contents/MacOS/wpscloudsvr,LAN
 PROCESS-NAME,/Applications/Moonlight.app/Contents/MacOS/Moonlight,LAN
+PROCESS-NAME,/Applications/TencentMeeting.app/Contents/MacOS/TencentMeeting,LAN
 #域名
 DOMAIN,preview.feed.toolbox.app,LAN
 #
