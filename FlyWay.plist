@@ -4,7 +4,6 @@ PROCESS-NAME,/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/
 PROCESS-NAME,/opt/LVUAAgentInstBaseRoot/dvc-core-exe,LAN
 PROCESS-NAME,/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft Update Assistant.app/Contents/MacOS/Microsoft Update Assistant,LAN // 升级
 PROCESS-NAME,/System/Applications/App Store.app/Contents/MacOS/App Store,LAN
-PROCESS-NAME,/Applications/NeatDownloadManager.app/Contents/MacOS/NeatDownloadManager,LAN
 PROCESS-NAME,/Applications/企业微信.app/Contents/Resources/WeDrive/v14.17.4/bin/node,LAN
 PROCESS-NAME,/Applications/企业微信.app/Contents/Frameworks/企业微信 Helper.app/Contents/MacOS/企业微信 Helper,LAN
 PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信,LAN
