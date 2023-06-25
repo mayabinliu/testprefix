@@ -10,6 +10,9 @@ PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信,LAN
 PROCESS-NAME,/Applications/Moonlight.app/Contents/MacOS/Moonlight,LAN
 PROCESS-NAME,/Applications/TencentMeeting.app/Contents/MacOS/TencentMeeting,LAN
 PROCESS-NAME,/Applications/TickTick.app/Contents/MacOS/TickTick,LAN
+PROCESS-NAME,/Library/Application Support/SkyGuard/SkyGuard Endpoint/EndpointAgent/bin/EndpointClientAgent,LAN
+
+
 #域名
 DOMAIN,preview.feed.toolbox.app,LAN
 #
