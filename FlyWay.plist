@@ -12,10 +12,10 @@ PROCESS-NAME,/Applications/TencentMeeting.app/Contents/MacOS/TencentMeeting,LAN
 PROCESS-NAME,/Applications/TickTick.app/Contents/MacOS/TickTick,LAN
 PROCESS-NAME,/Library/Application Support/SkyGuard/SkyGuard Endpoint/EndpointAgent/bin/EndpointClientAgent,LAN
 
-PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-connect,DIRECT
-PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-daemon,DIRECT
-PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-ui,DIRECT
-PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-auto-updater,DIRECT
+#PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-connect,DIRECT
+#PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-daemon,DIRECT
+#PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-ui,DIRECT
+#PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-auto-updater,DIRECT
 
 PROCESS-NAME,/Applications/Workspace.app/Contents/Applications/VdSession.app/Contents/MacOS/VdSession,LAN
 PROCESS-NAME,/Applications/Workspace.app/Contents/MacOS/Workspace,LAN
