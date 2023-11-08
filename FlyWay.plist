@@ -18,6 +18,7 @@ PROCESS-NAME,/Library/Application Support/SkyGuard/SkyGuard Endpoint/EndpointAge
 #PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-auto-updater,DIRECT
 
 PROCESS-NAME,/Applications/Workspace.app/Contents/Applications/VdSession.app/Contents/MacOS/VdSession,LAN
+PROCESS-NAME,/Library/Application Support/SkyGuard/SkyGuard Endpoint/EndpointAgent/bin/EndpointTrafficServer,LAN
 PROCESS-NAME,/Applications/Workspace.app/Contents/MacOS/Workspace,LAN
 
 #域名
