@@ -193,7 +193,7 @@ IP-CIDR,172.253.63.188/32,no-resolve
 IP-CIDR,172.253.122.188/32,no-resolve
 IP-CIDR,173.194.175.188/32,no-resolve
 IP-CIDR,173.194.218.188/32,no-resolve
-IP-CIDR,209.85.233.188/32,no-resolve 
+IP-CIDR,209.85.233.188/32,no-resolve
 #Wikipedia
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
@@ -207,6 +207,6 @@ DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
-#cloudflare CDN  
+#cloudflare CDN 
 DOMAIN-SUFFIX,ajax.cloudflare.com
-DOMAIN-SUFFIX,cdnjs.cloudflare.com   
+DOMAIN-SUFFIX,cdnjs.cloudflare.com
