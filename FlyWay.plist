@@ -4,19 +4,9 @@ PROCESS-NAME,/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/
 PROCESS-NAME,/opt/LVUAAgentInstBaseRoot/dvc-core-exe,LAN
 PROCESS-NAME,/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft Update Assistant.app/Contents/MacOS/Microsoft Update Assistant,LAN // 升级
 PROCESS-NAME,/System/Applications/App Store.app/Contents/MacOS/App Store,LAN
-PROCESS-NAME,/Applications/企业微信.app/Contents/Resources/WeDrive/v14.17.4/bin/node,LAN
-PROCESS-NAME,/Applications/企业微信.app/Contents/Frameworks/企业微信 Helper.app/Contents/MacOS/企业微信 Helper,LAN
-PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信,LAN
 PROCESS-NAME,/Applications/Moonlight.app/Contents/MacOS/Moonlight,LAN
 PROCESS-NAME,/Applications/TencentMeeting.app/Contents/MacOS/TencentMeeting,LAN
-PROCESS-NAME,/Applications/TickTick.app/Contents/MacOS/TickTick,LAN
 PROCESS-NAME,/Library/Application Support/SkyGuard/SkyGuard Endpoint/EndpointAgent/bin/EndpointClientAgent,LAN
-
-#PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-connect,DIRECT
-#PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-daemon,DIRECT
-#PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-ui,DIRECT
-#PROCESS-NAME,/Users/bol/Library/Application Support/SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-auto-updater,DIRECT
-
 PROCESS-NAME,/Applications/Workspace.app/Contents/Applications/VdSession.app/Contents/MacOS/VdSession,LAN
 PROCESS-NAME,/Library/Application Support/SkyGuard/SkyGuard Endpoint/EndpointAgent/bin/EndpointTrafficServer,LAN
 PROCESS-NAME,/Applications/Workspace.app/Contents/MacOS/Workspace,LAN
