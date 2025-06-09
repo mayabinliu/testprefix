@@ -1,1 +1,9 @@
 
+PROCESS-NAME,/Applications/TencentMeeting.app/Contents/MacOS/TencentMeeting,LAN
+
+#域名
+DOMAIN,preview.feed.toolbox.app,LAN
+#
+DOMAIN-SUFFIX,u-tools.cn,LAN
+DOMAIN-SUFFIX,jetbrains.com,LAN
+DOMAIN-SUFFIX,intellij.net,LAN
