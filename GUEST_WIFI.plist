@@ -1,9 +1,9 @@
 
-PROCESS-NAME,/Applications/TencentMeeting.app/Contents/MacOS/TencentMeeting,LAN
+PROCESS-NAME,/Applications/TencentMeeting.app/Contents/MacOS/TencentMeeting,GUEST_WIFI
 
 #域名
-DOMAIN,preview.feed.toolbox.app,LAN
+DOMAIN,preview.feed.toolbox.app,GUEST_WIFI
 #
-DOMAIN-SUFFIX,u-tools.cn,LAN
-DOMAIN-SUFFIX,jetbrains.com,LAN
-DOMAIN-SUFFIX,intellij.net,LAN
+DOMAIN-SUFFIX,u-tools.cn,GUEST_WIFI
+DOMAIN-SUFFIX,jetbrains.com,GUEST_WIFI
+DOMAIN-SUFFIX,intellij.net,GUEST_WIFI
