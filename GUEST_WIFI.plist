@@ -1,5 +1,10 @@
 
 PROCESS-NAME,/Applications/TencentMeeting.app/Contents/MacOS/TencentMeeting,GUEST_WIFI
+PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信,GUEST_WIFI
+PROCESS-NAME,/Applications/wpsoffice.app/Contents/SharedSupport/wpscloudsvr.app/Contents/MacOS/wpscloudsvr,GUEST_WIFI
+PROCESS-NAME,/Applications/wpsoffice.app/Contents/MacOS/wpsoffice,GUEST_WIFI
+PROCESS-NAME,/Applications/ToDesk.app/Contents/MacOS/ToDesk,GUEST_WIFI
+PROCESS-NAME,/Applications/TencentMeeting.app/Contents/Frameworks/WeMeetFramework.framework/Versions/3.34.11.407/Frameworks/wmexternal.app/Contents/MacOS/wmexternal,GUEST_WIFI
 
 #域名
 DOMAIN,preview.feed.toolbox.app,GUEST_WIFI
