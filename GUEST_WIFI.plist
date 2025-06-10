@@ -6,6 +6,9 @@ PROCESS-NAME,/Applications/wpsoffice.app/Contents/MacOS/wpsoffice,GUEST_WIFI
 PROCESS-NAME,/Applications/ToDesk.app/Contents/MacOS/ToDesk,GUEST_WIFI
 PROCESS-NAME,/Applications/TencentMeeting.app/Contents/Frameworks/WeMeetFramework.framework/Versions/3.34.11.407/Frameworks/wmexternal.app/Contents/MacOS/wmexternal,GUEST_WIFI
 
+
+PROCESS-NAME,/System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget,ZTE_LAN
+
 #域名
 DOMAIN,preview.feed.toolbox.app,GUEST_WIFI
 #
