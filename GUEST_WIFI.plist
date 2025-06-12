@@ -18,3 +18,5 @@ DOMAIN,preview.feed.toolbox.app,GUEST_WIFI
 DOMAIN-SUFFIX,u-tools.cn,GUEST_WIFI
 DOMAIN-SUFFIX,jetbrains.com,GUEST_WIFI
 DOMAIN-SUFFIX,intellij.net,GUEST_WIFI
+DOMAIN-SUFFIX,api.coingecko.com,"♻️ 自动选择"
+DOMAIN-SUFFIX,api.coincap.io,"♻️ 自动选择"
