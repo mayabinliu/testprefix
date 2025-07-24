@@ -1,5 +1,5 @@
 ## App
-PROCESS-NAME,/Applications/Workspace.app/Contents/Eveusb/eveusbd,GUEST_WIFI
+#PROCESS-NAME,/Applications/Workspace.app/Contents/Eveusb/eveusbd,GUEST_WIFI
 
 # 域名
 
