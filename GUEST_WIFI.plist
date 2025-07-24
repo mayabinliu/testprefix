@@ -1,4 +1,4 @@
-## GUEST_WIFI
+## App
 PROCESS-NAME,/Applications/TencentMeeting.app/Contents/MacOS/TencentMeeting,GUEST_WIFI
 PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信,GUEST_WIFI
 PROCESS-NAME,/Applications/wpsoffice.app/Contents/SharedSupport/wpscloudsvr.app/Contents/MacOS/wpscloudsvr,GUEST_WIFI
@@ -6,17 +6,8 @@ PROCESS-NAME,/Applications/wpsoffice.app/Contents/MacOS/wpsoffice,GUEST_WIFI
 PROCESS-NAME,/Applications/ToDesk.app/Contents/MacOS/ToDesk,GUEST_WIFI
 PROCESS-NAME,/Applications/TencentMeeting.app/Contents/Frameworks/WeMeetFramework.framework/Versions/3.34.11.407/Frameworks/wmexternal.app/Contents/MacOS/wmexternal,GUEST_WIFI
 
-## ZTE_LAN
-PROCESS-NAME,/System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget,ZTE_LAN
-PROCESS-NAME,/Applications/极空间.app/Contents/MacOS/极空间,ZTE_LAN
-## INNER
-PROCESS-NAME,/Applications/Workspace.app/Contents/Eveusb/eveusbd,INNER
-
-#域名
+# 域名
 DOMAIN,preview.feed.toolbox.app,GUEST_WIFI
-#
 DOMAIN-SUFFIX,u-tools.cn,GUEST_WIFI
 DOMAIN-SUFFIX,jetbrains.com,GUEST_WIFI
 DOMAIN-SUFFIX,intellij.net,GUEST_WIFI
-DOMAIN-SUFFIX,api.coingecko.com,"♻️ 自动选择"
-DOMAIN-SUFFIX,api.coincap.io,"♻️ 自动选择"
