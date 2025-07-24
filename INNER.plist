@@ -1,0 +1,13 @@
+## App
+PROCESS-NAME,/Applications/Workspace.app/Contents/Eveusb/eveusbd,GUEST_WIFI
+
+# 域名
+
+DOMAIN-SUFFIX,saicfinance.com,INNER
+DOMAIN-SUFFIX,saic-finance.com,INNER
+
+
+# IP-CRDR
+IP-CRDR,103.24.117.164/32,INNER
+IP-CRDR,10.116.0.0/16,INNER
+IP-CRDR,172.26.0.0/16,INNER
